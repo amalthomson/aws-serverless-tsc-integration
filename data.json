@@ -1,0 +1,4 @@
+{
+
+    "message": "This data is being fetched from AWS S3 through a AWS Lambda Function"
+}
